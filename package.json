@@ -21,5 +21,6 @@
   "homepage": "https://github.com/prahaladbelavadi/weather-app#readme",
   "dependencies": {
     "request": "^2.81.0",
+    "yargs": "^8.0.2"
   }
 }
