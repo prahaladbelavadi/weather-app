@@ -1,0 +1,22 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "A command line weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "weatherapp"
+  ],
+  "author": "Prahalad Belavadi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prahaladbelavadi/weather-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prahaladbelavadi/weather-app/issues"
+  },
+  "homepage": "https://github.com/prahaladbelavadi/weather-app#readme"
+}
